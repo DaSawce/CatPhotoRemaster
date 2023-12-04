@@ -1,0 +1,32 @@
+html {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #659dbd;
+}
+
+main > h1 {
+  text-align: center;
+  display: flex;
+  color: #fbeec1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#cat1 {
+  border-radius: 10%;
+  border-color: #fbeec1;
+  border: 5px;
+}
+
+#lasagna {
+  border-radius: 10%;
+  border-color: #fbeec1;
+  border: 5px;
+}
+
+#cat2 {
+  border-radius: 10%;
+  border-color: #fbeec1;
+  border: 5px;
+}
