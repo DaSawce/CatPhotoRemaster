@@ -13,6 +13,7 @@ main > h1 {
   font-weight: bold;
 }
 
+/* just some stylings for the site */
 #cat1 {
   border-radius: 10%;
   border-color: #fbeec1;
@@ -41,6 +42,7 @@ main > h1 {
 .head2,
 .head3 {
   text-decoration: underline;
+  color: #fbeec1;
 }
 
 div {
@@ -82,7 +84,7 @@ div.list div:before {
   align-items: center;
   justify-content: center;
   font-size: 16px;
-  background-color: #d7385e;
+  background-color: #1f497d;
   border-radius: 50%;
   color: #fff;
 }
